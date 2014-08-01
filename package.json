@@ -1,0 +1,23 @@
+{
+  "name": "fogchess",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "passport": "~0.2.0",
+    "passport-http": "~0.2.2",
+    "pg": "~2.11.1",
+    "bcryptjs": "~0.7.10"
+  },
+  "description": "Heroku information: Application URL: http://fogchess.herokuapp.com/ Git URL: git@heroku.com:fogchess.git",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://srpeck@bitbucket.org/srpeck/fogchess.git"
+  },
+  "author": "srpeck",
+  "license": "None"
+}

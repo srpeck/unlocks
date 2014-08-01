@@ -1,0 +1,9 @@
+Web service intended to be used by a mobile app client for user authentication and persistence of unlock codes.
+
+On Heroku: http://fogchess.herokuapp.com/
+
+PassportJS authentication
+bcrypt.js password encryption
+OpenSSL certificates for HTTPS
+Express/NodeJS web server
+PostgreSQL database
